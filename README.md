@@ -1,0 +1,1 @@
+python cricsheet.py 
